@@ -1,0 +1,5 @@
+{
+    "sketch": "Energy_monitoring.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:diecimila"
+}
